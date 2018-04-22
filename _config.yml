@@ -87,7 +87,8 @@ education:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - gmmcal/gmmcal.com.br
+  - gmmcal/gmmcal.com.br
+  - alagoasdevday/certificates
 
 #Stackoverflow flair is optional
 # stackoverflow:
